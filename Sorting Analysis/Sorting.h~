@@ -1,0 +1,21 @@
+#ifndef SORTING_H
+#define SORTING_H
+
+class Sorting
+{
+ private:
+  int* data;
+
+ public:
+  Sorting(int* data); //constructor
+  long SelectionSort(int size);
+  int BubbleSort(int size);
+  int InsertionSort(int size);
+  void MergeSort(int low, int high, int & count);
+  void QuickSort(int left, int right, int & count);
+  void HeapSort(int n, int& count);
+  void printData(int size);
+
+};
+
+#endif

@@ -1,0 +1,21 @@
+Project4:
+total 4056
+-rw-r--r--. 1 ugrad 1288890 Apr 18 16:49 inorder.dat
+-rw-r--r--. 1 ugrad     519 Apr 19 18:10 Makefile
+-rw-r--r--. 1 ugrad       0 Apr 20 18:59 o.dat
+-rw-r--r--. 1 ugrad  219239 Apr 23 23:45 Project4_report_FINAL_DRAFT.docx
+-rw-r--r--. 1 ugrad 1288890 Apr 18 16:48 random.dat
+-rw-r--r--. 1 ugrad     364 Apr 23 23:44 README.txt
+-rw-r--r--. 1 ugrad       0 Apr 23 23:52 rec44596
+-rw-r--r--. 1 ugrad 1288895 Apr 18 16:54 reverse.dat
+-rw-r--r--. 1 ugrad    4831 Apr 23 23:49 Sorting.cpp
+-rw-r--r--. 1 ugrad    3849 Apr 23 23:46 Sorting.cpp~
+-rw-r--r--. 1 ugrad    5197 Apr 23 23:50 sortingDr.cpp
+-rw-r--r--. 1 ugrad    4178 Apr 23 21:55 sortingDr.cpp~
+-rw-r--r--. 1 ugrad     396 Apr 20 17:22 Sorting.h
+-rw-r--r--. 1 ugrad     391 Apr 20 15:58 Sorting.h~
+-rw-r--r--. 1 ugrad     966 Apr 23 16:32 time.cpp
+-rw-r--r--. 1 ugrad     198 Apr 20 19:08 user.dat
+-rw-r--r--. 1 ugrad      12 Apr 19 23:00 worst.dat
+-rw-r--r--. 1 ugrad      14 Apr 19 22:59 worst.dat~
+/home/ugrads/callahan/cs2720/Project4:/home/work/cs2720b
