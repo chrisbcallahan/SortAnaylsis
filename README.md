@@ -10,7 +10,7 @@ $ make
 ```
 **To run:**
 ```
-./sortingDr
+$ ./sortingDr
 ```
 **While running:**
 
